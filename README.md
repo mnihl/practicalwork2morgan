@@ -10,6 +10,7 @@ This is the repository for my Practical Work II, a software development project 
 - Completed the about me content
 - Added content to the topic, degree pages
 - Finalized content in HTML form, contact, net, fce pages, CSS is next
+- Added styling via styles.css to all pages and elements
 
 
 
@@ -23,6 +24,7 @@ This is the repository for my Practical Work II, a software development project 
 - I went with the topic from my Practical Work I group work for my Topic section, and gave a recap about the topic, why it interested me and us as a group, and why it is an exciting topic in general.
 - For the degree page, there was a lot of content to fill in, I decided to make a table with the columns: Semester, Course, Category, as was requested in the specifications for this project. 
 - I created the FCE page with information taken from the slides "Unit 0 - Intro"
+- Added CSS styling to all pages, I went with blue and white/grey as the main colors of this webpage which correlates with the thematic colors of the university. The navbar and footer are always in blue while the content of the page is white and with black text to be the most legible, surrounded by a darker grey exterior shell around the page. I made the table containing the courses of my university degree as well the link to FCE information cover the entire page, so that the elements of the table were less crammed and it was not in the corner of the user's eyes but rather the center. 
 
 ## Problems encountered
 
@@ -31,5 +33,10 @@ This is the repository for my Practical Work II, a software development project 
 - I worried if citing the sources of all images was necessary for this project. 
 - Working with tables in html is very messy and can get confusing if you have a lot of row elements with lots of text cluttering up your html file. As of now I have not styled it either and am unsure how I will to make it more legible for the user/reader. 
 - Unsure once again if it is accepted to use text and information taken from slides when descrbing FCE on fce.html
+- Not exactly happy with the final design of the website and the styling of the table
+- Maybe the UFV logo should link to UFV website, but decided not to do this.
+- Wanted to make the footer "sticky" to the bottom, but was not able to find a way to do this via the means and resources we were taught in this courses, and it was not listed as a requirement, so I decided not to pursue that further either. 
+- Overall styling and working with CSS is a weak point of mine, I feel I lack the overall "vision" of the websites I have created in the past and dislike styling and nitpicking and centering divs. I have found working with Bootstrap to be much more satisfying and functional but this was too much for this project. 
+- The table or the way the degree courses were presented per year should be improved. 
 
 ## Conclusions
