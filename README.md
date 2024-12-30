@@ -11,6 +11,7 @@ This is the repository for my Practical Work II, a software development project 
 - Added content to the topic, degree pages
 - Finalized content in HTML form, contact, net, fce pages, CSS is next
 - Added styling via styles.css to all pages and elements
+- Minor page adjustments, and the conclusion
 
 
 
@@ -28,7 +29,7 @@ This is the repository for my Practical Work II, a software development project 
 
 ## Problems encountered
 
-- I was not sure if it was correct or acceptable to create all the HTML files at first, without working on them at all. I did the separate pushes as stated but maybe it was meant that you should finish each HTML file before creating the next. Anyway, it was how I decided to proceed with my project as I like to have all things organized first.
+- I was not sure if it was correct or acceptable to create all the HTML files at first, without working on them at all. I did the separate pushes as stated in the rules but maybe it was meant that you should finish each HTML file before creating the next. Anyway, it was how I decided to proceed with my project as I like to have all things organized first.
 - The aforementioned problem in the description about not knowing what to fill in text-wise in this project made me lose a lot of time and confidence in myself. It also made it hard to test the website without content, Lorem Ipsum texts are a solution to this of course. 
 - I worried if citing the sources of all images was necessary for this project. 
 - Working with tables in html is very messy and can get confusing if you have a lot of row elements with lots of text cluttering up your html file. As of now I have not styled it either and am unsure how I will to make it more legible for the user/reader. 
@@ -40,3 +41,5 @@ This is the repository for my Practical Work II, a software development project 
 - The table or the way the degree courses were presented per year should be improved. 
 
 ## Conclusions
+
+- It was an enjoyable and educational project. I have done projects like this before but find that the information goes out of your knowledge in your head quite fast unless you keep it up and continue to make web projects. The full requested functionality and features are provided by my project, as far as I have tested, and the rules have been followed. It went well but at the point of reaching CSS I personally struggle to make something cohesive and consistent that I am satisfied with. Dealing with color schemes, and minor adjustments to the location and presentation of certain page elements is something I find very tedious and even wasteful in terms of time. But it is sufficient and functional as I said before. The webpage provides about, topic, degree (with FCE subpage), net, and contact pages with the promised features contained within. All navbar and footer links function and images are properly referenced. Content is all original except for the FCE page where information about the course is quoted verbatim from the slides Unit 0 - Intro because these provide the literal and exact information about the course content, direction, and learning outcomes. Areas of improvement would be styling of certain elements, namely: table with courses, footer, form. Functionality and content wise, everything is provided. 
