@@ -4,14 +4,15 @@ This is the repository for my Practical Work II, a software development project 
 
 # Actions
 
-- Added the basic structure and organization of the project
-- Created the homepage, navbar, and footers that will be shared on all the other html pages
-- Added image files that will be used in the content of the various html pages
-- Completed the about me content
-- Added content to the topic, degree pages
-- Finalized content in HTML form, contact, net, fce pages, CSS is next
-- Added styling via styles.css to all pages and elements
-- Minor page adjustments, and the conclusion
+- Added the basic structure and organization of the project.
+- Created the homepage, navbar, and footers that will be shared on all the other html pages.
+- Added image files that will be used in the content of the various html pages.
+- Completed the about me content.
+- Added content to the topic, degree pages.
+- Finalized content in HTML form, contact, net, fce pages, CSS is next.
+- Added styling via styles.css to all pages and elements.
+- Minor page adjustments, and added the conclusion.
+- Added email section to the contact page, and social media links to the about me page.
 
 
 
