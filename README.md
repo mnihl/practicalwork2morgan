@@ -9,6 +9,7 @@ This is the repository for my Practical Work II, a software development project 
 - Added image files that will be used in the content of the various html pages
 - Completed the about me content
 - Added content to the topic, degree pages
+- Finalized content in HTML form, contact, net, fce pages, CSS is next
 
 
 
@@ -21,6 +22,7 @@ This is the repository for my Practical Work II, a software development project 
 - For the "About me" section I wrote a little bit about myself and included information about my home university too, to showcase where I came from before attending this exchange semester. 
 - I went with the topic from my Practical Work I group work for my Topic section, and gave a recap about the topic, why it interested me and us as a group, and why it is an exciting topic in general.
 - For the degree page, there was a lot of content to fill in, I decided to make a table with the columns: Semester, Course, Category, as was requested in the specifications for this project. 
+- I created the FCE page with information taken from the slides "Unit 0 - Intro"
 
 ## Problems encountered
 
@@ -28,5 +30,6 @@ This is the repository for my Practical Work II, a software development project 
 - The aforementioned problem in the description about not knowing what to fill in text-wise in this project made me lose a lot of time and confidence in myself. It also made it hard to test the website without content, Lorem Ipsum texts are a solution to this of course. 
 - I worried if citing the sources of all images was necessary for this project. 
 - Working with tables in html is very messy and can get confusing if you have a lot of row elements with lots of text cluttering up your html file. As of now I have not styled it either and am unsure how I will to make it more legible for the user/reader. 
+- Unsure once again if it is accepted to use text and information taken from slides when descrbing FCE on fce.html
 
 ## Conclusions
